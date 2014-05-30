@@ -10,10 +10,9 @@
   <br>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
-      <b><a href="http://parts.igem.org/Part:{{entry.Part}}">{{entry.Part}}</a></b>
+      <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b>{{entry.Description}}</b>
       <ul>
         <li>Location: ({{entry.Plate}}) {{entry.Well}}</li>
-        <li>Description: {{entry.Description}}</li>
         <li>Type: {{entry.Type}}</li>
         <li>Plasmid: {{entry.Plasmid}}</li>
       </ul>
