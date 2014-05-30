@@ -1,0 +1,1 @@
+"use strict";angular.module("iGemPlates2014App",["ngResource"]),angular.module("iGemPlates2014App").controller("MainCtrl",["$scope","$http",function(a,b){a.awesomeThings=["HTML5 Boilerplate","AngularJS","Karma"],b.get("allkitplates.json").success(function(b){console.log(b),a.entries=b})}]);
