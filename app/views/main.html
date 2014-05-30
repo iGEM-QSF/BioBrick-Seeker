@@ -1,16 +1,13 @@
 <div class="header">
-  <ul class="nav nav-pills pull-right">
-    <li class="active"><a ng-href="#">Home</a></li>
-    <li><a ng-href="#">About</a></li>
-    <li><a ng-href="#">Contact</a></li>
-  </ul>
-  <h3 class="text-muted">iGEM plates 2014</h3>
+  <div class="pull-right">
+    <h4>by Aalto-Helsinki</h4>
+  </div>
+  <h3 class="text-muted">BioBrick Seeker</h3>
 </div>
 
-<div class="row marketing">
-
+<div class="row">
   <input placeholder="write something to filter entries" class="form-control" ng-model="criteria"></input>
-
+  <br>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
       <b>{{entry.Part}}</b>
