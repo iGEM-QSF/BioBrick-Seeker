@@ -13,7 +13,7 @@
     <li ng-repeat="entry in entries | filter:criteria">
       <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b>{{entry.Description}}</b>
       <ul>
-        <li>Location: ({{entry.Plate}}) {{entry.Well}}</li>
+        <li>Location: (Plate {{entry.Plate - 3084}}) {{entry.Well}}</li>
         <li>Type: {{entry.Type}}</li>
         <li>Plasmid: {{entry.Plasmid}}</li>
       </ul>
