@@ -7,8 +7,23 @@
 </div>
 
 <div class="row">
-  <input placeholder="write something to filter entries" class="form-control" ng-model="criteria"></input>
+  <input placeholder="write something to filter entries" class="form-control" ng-model="criteria.Description"></input>
   <br>
+    <b>Choose Type:</b>
+    <select ng-model="criteria.Type">
+        <option value="">Any</option>
+        <option ng-repeat="entry in entries | unique:'Type'" value={{entry.Type}}>
+          {{entry.Type}}
+        </option>
+    </select>
+  <br>
+  <b>Choose Plasmid:</b>
+    <select ng-model="criteria.Plasmid">
+        <option value="">Any</option>
+        <option ng-repeat="entry in entries | unique:'Plasmid'" value={{entry.Plasmid}}>
+          {{entry.Plasmid}}
+        </option>
+    </select>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
       <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b>{{entry.Description}}</b>

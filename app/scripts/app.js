@@ -1,6 +1,4 @@
 'use strict';
 
 angular
-  .module('iGemPlates2014App', [
-    'ngResource'
-  ]);
+  .module('iGemPlates2014App', ['ui.utils']);
