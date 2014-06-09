@@ -4,26 +4,33 @@
   </div>
   <h3 class="text-muted">BioBrick Seeker</h3>
   <i>Search through the iGEM 2014 distribution.</i>
+  <br>
+  <p>If you use this tool in your iGEM project, please mention it on your wiki and let us now: team@aaltohelsinki.com.</p>
 </div>
 
 <div class="row">
-  <input placeholder="write something to filter entries" class="form-control" ng-model="criteria.Description"></input>
-  <br>
-    <b>Choose Type:</b>
-    <select ng-model="criteria.Type">
-        <option value="">Any</option>
-        <option ng-repeat="entry in entries | unique:'Type'" value={{entry.Type}}>
-          {{entry.Type}}
-        </option>
-    </select>
-  <br>
-  <b>Choose Plasmid:</b>
-    <select ng-model="criteria.Plasmid">
-        <option value="">Any</option>
-        <option ng-repeat="entry in entries | unique:'Plasmid'" value={{entry.Plasmid}}>
-          {{entry.Plasmid}}
-        </option>
-    </select>
+    <div class="dropdown-list">
+    <br>
+      <b>Choose Type: </b>
+      <select ng-model="criteria.Type">
+          <option value="">Any</option>
+          <option ng-repeat="entry in entries | unique:'Type'" value={{entry.Type}}>
+            {{entry.Type}}
+          </option>
+      </select>
+    <br>
+  </div>
+  <div class="dropdown-list">
+    <b>Choose Plasmid: </b>
+      <select ng-model="criteria.Plasmid">
+          <option value="">Any</option>
+          <option ng-repeat="entry in entries | unique:'Plasmid'" value={{entry.Plasmid}}>
+            {{entry.Plasmid}}
+          </option>
+      </select>
+    <br>
+  </div>
+  <input placeholder="write something to filter entry descriptions" class="form-control" ng-model="criteria.Description"></input>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
       <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b>{{entry.Description}}</b>
@@ -37,5 +44,5 @@
 </div>
 
 <div class="footer">
-  <p><span class="glyphicon glyphicon-heart"></span> from the Aalto-Helsinki team</p>
+  <p>from the Aalto-Helsinki team</p>
 </div>
