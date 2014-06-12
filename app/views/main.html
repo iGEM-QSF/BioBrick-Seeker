@@ -30,8 +30,8 @@
       </select>
     <br>
   </div>
-  <input placeholder="write something to filter entry descriptions" class="form-control" ng-model="criteria.Description"></input>
-  <input placeholder="write something to filter part names" class="form-control" ng-model="criteria.Part"></input>
+  <input placeholder="Search by entry descriptions" class="form-control" ng-model="criteria.Description"></input>
+  <input placeholder="Search by part names" class="form-control" ng-model="criteria.Part"></input>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
       <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b>{{entry.Description}}</b>
