@@ -1,0 +1,444 @@
+[
+{
+"Team":"Alberta_NINT",
+"Link":"http://2008.igem.org/Team:Alberta_NINT",
+"Description":"Project Logi-col[i]: Terminator/Attenuator anti-sense Logic (T/AasL)",
+"Abstract":"Two major hurdles facing the development of complex genetic logic circuits are device connectibility and device extensibility.  Connectibility refers to the ability to connect the output of one device to the input of another device, while extensibility refers to the dual abilities to rationally design new devices and combine multiple devices in one organism.  Our project uses terminator/attenuator (T/A) hairpin sequences (gates) to control transcription and anti-sense RNA as input/output signals to/from the devices.  We call this approach Terminator/Attenuator anti-sense Logic (T/AasL – pronounced “taw-ssel”).  It solves the connectibility problems of common protein-based approaches because the anti-sense output of one device is used to disrupt formation of T/A hairpin structures of downstream devices, thus activating them.  In addition, because RNA secondary structures can be rationally designed (using our m-fold derived analysis program) we can readily construct a large family of devices with minimal cross-talk for inclusion in a single cell"
+},
+{
+"Team":"Bay_Area_RSI",
+"Link":"http://2008.igem.org/Team:Bay_Area_RSI",
+"Description":"Differentiation and Targeting of Stem Cells to Infarcted Cardiac Tissue",
+"Abstract":"Every year over 1.2 million people suffer myocardial infarction.  The resulting heart damage requires new approaches for effective repair.  Stem cell therapies provide hope.  However none of the stem cell therapies currently in clinical trials addresses the need  for efficient stem cell targeting to cardiac tissue or the need to replace efficiently dead tissue with new cardiomyocytes.  To address these problems, we have built several genetic circuits that work sequentially to repair the heart.  First, we have built an inducible differentiation circuit that closely resembles the endogenous differentiation pathway, to program cells to become cardiomyocytes.  Second, we have built circuits that use the extracellular domains of chimeric proteins to target cells to damaged cardiac tissue. Upon binding, novel receptor-coupled intein-mediated signaling domains activate effector genes that then aid in integration, inhibition of cell death, and the alteration of the tissue microenvironment"
+},
+{
+"Team":"BCCS-Bristol",
+"Link":"http://2008.igem.org/Team:BCCS-Bristol",
+"Description":"Bacto-Builders",
+"Abstract":"Assembling particles at microscopic scales into desired patterns or structures is usually difficult or impossible. All construction projects require the manipulation of varying size components, many much larger than any individual. To make this  possible, teams of individuals work together towards a common goal. To find out how to transfer this behaviour to our ``Bacto-Builders<i>, we investigate the possibility of using large numbers of E. coli to  perform a task too great for any individual cell. Specifically, this involves the physical movement of particles through direct contact with a swarm of bacteria working together in a co-ordinated manner.  The ultimate goal is to engineer the bacteria to follow a set of simple rules, so that collective behaviour emerges, and particles are assembled  into a desired pattern. Furthermore, patterns or structures  could be evolved in real time with bacteria adapting to new dynamic requirements or autonomously forming new structures.</i"
+},
+{
+"Team":"Beijing_Normal",
+"Link":"http://2008.igem.org/Team:Beijing_Normal",
+"Description":"Intelligent PCBs detector and degrader",
+"Abstract":"Polychlorinated biphenyls (PCBs) are a group of organic pollutants that are persistent when released into the environment. Our task is to design an effective as well as intelligent PCBs degrader. According to the recent research, ortho-chlorinated PCB metabolites (DHBs) are potent and physiologically significant inhibitors of DHBD, so we design a feedback activation pathway to increase the BphC transcription and expression under a 2, 3-DHBP and 4-CB inducible promoter Ppcb. As dihydrodiols and dihydroxybiphenyls are very toxic to bacterial even after short incubation time, we design a feedback repression pathway use sRNA components— sodB and rhyB. As to the sensor part, dihydroxylated PCBs are substrate of the clcA-encoded chlorocatechol dioxygenase and thus induce the clcR and related promoter, so we use this as the sensing system. T7 amplification system is added to the downstream to amplify the signal.  "
+},
+{
+"Team":"Bologna",
+"Link":"http://2008.igem.org/Team:Bologna",
+"Description":"Ecoli.PROM: an Erasable and Programmable Genetic M­­emory with E. coli",
+"Abstract":"The project aims to design a bacterial reprogrammable memory with genetically engineered E.coli colonies in solid medium working as an array of binary memory cells. To engineer bacteria we designed a genetic flip-flop composed of a binary memory (toggle switch) and an UV sensitive trigger. We chose UV to have a fine spatial selectivity in programming the cells and IPTG  to reset the memory. We designed a circuit with high UV sensitivity by computer-model analysis. Core elements of the genetic memory are two mutually regulated promoters, designed as independent operator sites flanking a constitutive promoter. Thus, promoter transcriptional strength and repressor binding affinity can be independently fixed. Operator libraries for LacI, TetR, Lambda and LexA repressors were cloned as BioBricks to allow the rational design of regulated promoters that is still lacking in the Registry We expect this approach to be a benefit in many  Synthetic Biology applications"
+},
+{
+"Team":"Brown",
+"Link":"http://2008.igem.org/Team:Brown",
+"Description":"Toxipop: Conductance Measurement of Cell Lysis as a Reporter of Toxin Presence",
+"Abstract":"Around the world, primarily in third world countries, contamination of drinking water is an immense problem that is difficult and expensive to detect with current technology. As such, there is a need for an economically feasible, transportable, and user-friendly detection system for water contamination that can reliably be used in the field. Our goal was to design and implement a novel biosensor with the ability to detect the presence of certain water contaminants and report that information back via a change in the conductance of a bacterial solution.  An inducer specific promoter transcribes and leads to the translation of a \"Lysis Gene Cassette.\"  The subsequent lysis of the bacteria results in an increase in the solution's conductivity, indicating the presence of the inducer"
+},
+{
+"Team":"BrownTwo",
+"Link":"http://2008.igem.org/Team:BrownTwo",
+"Description":"A Genetic Limiter Circuit in S. cerevisiae",
+"Abstract":"Numerous disease states in multicellular organisms involve anomalous expression patterns of endogenous genes.  Tumor growth, associated with the overexpression of oncogenes, is one vexing example in which this occurs.  While extremes of gene expression can damage living systems, normal expression is necessary for healthy function.  We have designed a modular genetic circuit to limit the expression level of a gene of interest to a user-defined, tunable threshold.  The limiter network reacts to the transcription of an endogenous gene within each cell, entering a regulatory state only where and when the rate of transcription lies beyond an acceptable range of activity.  Along with its potential therapeutic utility, we offer our device as a foundational tool for researching gene expression in a eukaryotic model."
+},
+{
+"Team":"Calgary_Ethics",
+"Link":"http://2008.igem.org/Team:Calgary_Ethics",
+"Description":"An exploration of ethical, environmental, economic, legal and social (E3LS) issues of synthetic biology",
+"Abstract":"Synthetic biology is a rapidly advancing field of scientific and technological inquiry. To reach its full potential its (E3LS) issues have to be investigated in a proactive and foresight manner. We are the first iGEM team focusing exclusively on investigating synthetic biology (E3LS) issues. We pursued various projects: a) development, distribution and interpretation of two online surveys, one for high school- one for non-high school students; b) development of an online course on synthetic biology (E3LS) issues; c) dialogue with the University of Calgary wetware iGEM team and the University of Guelph iGEM team about (E3LS) issues attached to their respective projects; e) involvement in the Synthetic Biology 4.0 Poster “Forward-Engineering a Regulatory Framework for Synthetic Biology: How Existing Regulatory Architecture Could Lend to the Creation of Our Own” by Laura Dress from the University of Maryland"
+},
+{
+"Team":"Calgary_Wetware",
+"Link":"http://2008.igem.org/Team:Calgary_Wetware",
+"Description":"Quorum-coupled Bacteriocin Release: Engineering a Champion",
+"Abstract":"Microorganisms use pheromones to interact amongst themselves and with other microbial species in a process known as Quorum Sensing. In a similar sense, we have exploited the natural communication systems involving Autoinducer-1 (AI-1) from Vibrio fischeri and Autoinducer-2 (AI-2) from Vibrio harveyi, to create a model biosensor system in Escherichia coli. We have engineered the genetic circuits necessary for the production of these pheromones into two populations of E. coli (termed Bad guy #1 and Bad guy #2, as per their respective Autoinducer). In addition, our third population of E. coli (termed Champion cell) acts as a biosensor by receiving these signal inputs and subsequently initiating transcription of specific E. coli-targeted bacteriocins (i.e. colicins) in tandem with specific fluorescent proteins. The presence of AI-1 induces the Champion to produce a colicin to which Bad guy #1 is susceptible, but to which Bad guy #2 is resistant, and vice-versa for AI-2."
+},
+{
+"Team":"Caltech",
+"Link":"http://2008.igem.org/Team:Caltech",
+"Description":"Engineering multi-functional probiotic bacteria",
+"Abstract":"The human gut houses a diverse collection of microorganisms, with important implications for the health and welfare of the host. We aim to engineer a member of this microbial community to provide innovative medical treatments. Our work focuses on four main areas: (1) pathogen defense, either by expression of pathogen-specific bacteriophage or by targeted bursts of reactive oxygen species; (2) prevention of birth defects by folate over-expression and delivery; (3) treatment of lactose intolerance, by cleaving lactose to allow absorption in the large intestine; and (4) regulation of these three treatment functions to produce renewable subpopulations specialized for each function. Our research demonstrates that synthetic biology techniques can be used to modify naturally occurring microbial communities for applications in biomedicine and biotechnology"
+},
+{
+"Team":"Cambridge",
+"Link":"http://2008.igem.org/Team:Cambridge",
+"Description":"Cambridge iBrain: Foundations for an Artificial Nervous System using Self-Organizing Electrical Patterning",
+"Abstract":"We have developed a system which creates spatially organised electrical features in a genetically identical bacterial population, allowing for simulation of action potentials and other complex phenomena. This system generates electrical potentials in bacterial cells using artificially formed potassium gradients, released upon chemical stimulation. We have designed the genetic circuitry to establish a two-component Reaction-Diffusion system involving the well-characterised Lux and Agr signalling pathways, and we have modelled the intercellular interactions between these pathways to produce complex self-organising designs known as Turing patterns. To support this system we have developed the gram-positive bacteria Bacillus subtilis as a BioBrick chassis, including direct chromosomal single-copy insertion, peptide signalling, and BioBrick-compatible vectors for expression in both gram-negative and -positive bacteria. We have also tested a new assembly method for rapidly generating constructs by joining multiple PCR fragments. This work can serve as a foundation for future advances involving cellular patterning, signalling, and self-organisation"
+},
+{
+"Team":"Chiba",
+"Link":"http://2008.igem.org/Team:Chiba",
+"Description":"E.coli time manager",
+"Abstract":"We control the timing of gene expression by using multiple signaling devices. To this end,we utilize molecules associated with Quorum sensing, a phenomenon that allows bacteria to communicate with each other. Our project uses two classes of bacteria: senders and receivers. Senders produce signaling molecules, and receivers are activated only after a particular concentration of this　molecule is reached. Although different quorum sensing species have slightly different signaling molecules, these molecules are not completely specific to their hosts and cross-species reactivity is observed. Communication using non endogenous molecules is less sensitive, and requires a higher signal concentration to take effect. This results in slower activation of receivers"
+},
+{
+"Team":"CPU-NanJing",
+"Link":"http://2008.igem.org/Team:CPU-NanJing",
+"Description":"Adding new notes to the song of life / Customizing a biomacromolecule",
+"Abstract":"In our project, we designed a novel device by which we could insert different unnatural amino acids into a certain site in target protein expressed in E coli. Of course these unnatural amino acids would bring some new characteristics of the target protein. #2: In our project, we intend to design a device which composed of a bio-timer and alternatively expressed two glycosyltransferases. The timer could be controlled by the concentration of the inducer, and the glycosyltransferase are in charge of synthesizing the polysaccharide. As a result, the molecular weight of polysaccharide could be controlled by concentration of the inducer. By exchanging glycosyltransferase, this device would provide a useful tool to obtain different polysaccharide with certain molecular weight"
+},
+{
+"Team":"Davidson-Missouri_Western",
+"Link":"http://2008.igem.org/Team:Davidson-Missouri_Western",
+"Description":"E. nigma:  XOR Gates, a Bacterial Hash Function, and Viz-A-Brick",
+"Abstract":"The team designed, modeled, and constructed a bacterial computer that uses XOR logic to compute a cryptographic hash function. Hash functions are used to authenticate the integrity of a document by computing its digital “fingerprint,” an integer value that can be compared to the publicized value. Our bacterial computers recognize the presence or absence of two chemical signals, converting biological information into binary numbers.  Given a starting “key” and a binary message of arbitrary length, various configurations of the designed system produce the hash function output. Mathematical modeling of these computers has shown that our hash functions are difficult to corrupt. We also produced a graphical interface for exploring the Registry of Standard Biological Parts called Viz-A-Brick (<a href=\"http://gcat.davidson.edu/VizABrick/\" class=\"external free\" rel=\"nofollow\">http://gcat.davidson.edu/VizABrick/</a>), and other web-based tools to improve the construction of new parts with BioBrick ends (<a href=\"http://gcat.davidson.edu/iGEM08/tools.html\" class=\"external free\" rel=\"nofollow\">http://gcat.davidson.edu/iGEM08/tools.html</a>)."
+},
+{
+"Team":"Duke",
+"Link":"http://2008.igem.org/Team:Duke",
+"Description":"Attacking the plastic waste problem: a two-pronged approach",
+"Abstract":"Faced with the issues of plastic waste accumulation and environmental pollution, a two-pronged approach with the potential to solve these problems has been developed. Firstly, biologically produced plastics such as polyhydroxyalkanoates (PHAs) are superior to petroleum-based plastics because they are both biodegradable and biocompatible. By focusing on modulating the ratio of two PHA monomers, 3-hydroxybutyrate and 4-hydroxybutyrate, the copolymer poly(3HB-co-4HB) can be created featuring increased elasticity and utility over any particular PHA monomer. Secondly, a novel polyethylene-degradation pathway is being engineered based on the oxidation of long-chain alkanes by alkane monooxygenase LadA. The region inhibiting the binding and catalysis of polyethylene has been computationally identified and site-directed mutagenesis is being conducted at this region to yield a mutant of LadA that oxidizes polyethylene and thereby increases its biodegradability. The combination of the production of an eco-friendly bioplastic with the degradation of petroleum-based plastics is a promising method of waste reduction"
+},
+{
+"Team":"Edinburgh",
+"Link":"http://2008.igem.org/Team:Edinburgh",
+"Description":"A weapon of mass nutrition: The conversion of waste cellulosic biomass into starch and beta-carotene",
+"Abstract":"Cellulose, in the form of biomass, is the ultimate renewable resource. Its conversion to starch would provide a hugely abundant source of material which could be used for the manufacture of biofuels or other biological products, as an animal feed supplement to release grain for human food use, or even as the basis of a food for human use. Given the present food and energy shortages, the advantages of such a process are clear. With this in mind, Edinburgh iGEM 2008 have devised systems for E. coli to degrade cellulose into glucose, to upregulate glycogen and terpenoid production, and to convert glycogen into starch. We have also designed software capable of generating a model in SBML format from a list of genes and promoters entered by the user. This is supported by a background database allowing users to build models based on published data"
+},
+{
+"Team":"EPF-Lausanne",
+"Link":"http://2008.igem.org/Team:EPF-Lausanne",
+"Description":"Genetic network generating spatial patterns through cell-cell communication and controlled information processing",
+"Abstract":"Biological systems are unique in their ability to combine information and energy to generate  complex entities. Genetically encoded networks drive many of these patterning processes. Furthermore, developmental studies have highlighted the importance of gradient formation  and cell-cell communication for the generation of cellular patterns in the early stages of life. It has been shown that simple networks can form both static and dynamic patterns. Nonetheless, a system whose pattern formation is dependent on combinations of multiple signals has yet to be demonstrated. Here we address this question by designing a network, involving two different quorum-sensing based signaling mechanisms. Upon introduction in E.coli, the system can sense the relative amounts of two input molecules. Using a pre-define set of rules which was selected on its ability to generate spatial patterns, the cell can then express its final state by emitting red or green fluorescence and transmit its state to its neighbors."
+},
+{
+"Team":"ESBS-Strasbourg",
+"Link":"http://2008.igem.org/Team:ESBS-Strasbourg",
+"Description":"Cell Cycle Dependent Toggle Switch in Eucaryotic Cells: Approach to a Binary Cell Division Counter",
+"Abstract":"Our team aims to establish a regulatory network over several cell generations in budding yeast. This model organism as chassis offers ideal conditions as it has been the primary source for studies on the cell cycle. More specifically, we want to construct a toggle switch that is triggered by cell cycle dependent factors. The construction consists of two subassemblies of identical composition, each with a positive feedback loop for the own expression pattern and a repression of the competing module. Switching is achieved by directed degradation of transcription factors at a specific time frame within the cell cycle. This should result in a binary expression pattern like for example GFP expression in every other cell cycle (0-1-0-1). The system shall be extendable by adding further \"bits\" of similar construction (e.g. for the second bit the pattern 0-0-1-1). The device would thus be an approach to a binary cell division counter"
+},
+{
+"Team":"ETH_Zurich",
+"Link":"http://2008.igem.org/Team:ETH_Zurich",
+"Description":"Make yourself simpler, stupid! Or how engineering a self-minimizing cell leads to the Minimal Genome",
+"Abstract":"This year's ETH Zurich project tackles a fundamental problem of synthetic biology: the minimal genome. Exploring the minimal set of genes that is able to support life is a question of significant biological interest. Additionally, one of the main complications when implementing genetic circuits is possible cross-talk with endogenous pathways. Thus, an organism carrying a minimal genome would provide a simple chassis for biological engineering. Our approach is based on an iterative cycle of genome reduction and strain selection. We propose a novel method to randomly delete chromosomal fragments by controlled expression of restriction enzymes and ligases in vivo. Furthermore we develop a chemostat-based selective condition for cells having a smaller genome by constraining nucleotide availability. Computationally, we analyze the genome for optimal cutting sites, and perform flux balance analysis on a genome scale model to predict growth of reduced genome strains. Finally, we simulate the restriction enzyme control circuit and the selection mechanism"
+},
+{
+"Team":"Freiburg",
+"Link":"http://2008.igem.org/Team:Freiburg",
+"Description":"Modular Synthetic Transmembrane Receptor Systems Interfaced with Nano Breadboards",
+"Abstract":"Signaling through membranes is a characteristic of life. Transmembrane proteins control proliferation, differentiation, and cellular response and are key for the formation of multicellular organisms. Controlling such proteins enables one to modify cellular behavior and ultimately program cells at will. The complex rules for transmembrane signaling often require engagement of several proteins in a fine-tuned spatial and temporal manner. To tap into the possibilities of transmembrane programming, the Freiburg 2008 iGEM team provides an extensible system comprising an external framework with spatial resolution, a concept for modifying natural receptors, and a modular set of fusion-Biobricks for the construction of synthetic receptors. Spatial resolution in nanometer scale is provided by DNA-Origami modified with distinct patterns and combinations of ligands. Receptors are decoupled from their natural ligands by fusion with artificial binding domains. The Biobrick collection contains signal sequences, binding domains, transmembrane domains, and effector domains featuring split enzymes and split fluorescent proteins for immediate readout"
+},
+{
+"Team":"Groningen",
+"Link":"http://2008.igem.org/Team:Groningen",
+"Description":"Conway's Game of Life in Real Life",
+"Abstract":"Conway's Game of Life is a simple cellular automaton famous for generating complex \"life-like\" patterns. The goal of this project is to explore the possibility of implementing cellular automata, particularly the Game of Life, as a regular spatial arrangement of bacteria. Communicating the number of neighbors is  implemented using the well-known HSL quorum sensing system. A novel  component is the circuit implementing the automaton's ruleset, to determine  the state to switch to upon detecting \"too few\" , \"enough\"  or \"too many\" neighbors. This \"interval switch\" was designed and implemented by altering the binding site affinity of the signal molecule complexes to correspond to the levels of HSL coming from the neighbors. Finally, the \"ON\" state of the cells is indicated by GFP production and production of new HSL signals, and the \"OFF\" state by their absence. The  system was implemented partially in vivo and we have developed in silico models"
+},
+{
+"Team":"Guelph",
+"Link":"http://2008.igem.org/Team:Guelph",
+"Description":"Reprogramming microbes to cater to or silence their hosts: beta carotene production and RNAi delivery",
+"Abstract":"In humans microbes help digest our food and produce vitamins to supplement our diet, while plants such as corn harbour microbes within their tissues, which can extend the metabolic capacity of their host. In order to exploit these patterns of microbial habitation, we attempted to modify the broad host range plasmid pDSK-GFPuv to contain either a synthetic operon of metabolic genes belonging to the soil microbe /Erwinia uredovora/, or Biobrick compatible RNAi constructs targetting expression of either GFP or corn TB1 genes. These plasmids were to be electroporated into either probiotic /Escherichia coli/ /Nissle //1917 /or endophytic/ Klebsiella pneumonii /342. Assays will then show whether a genetically modified enteric microbe could be made to produce vitamin A in a modelled human intestine, or whether a common corn endophyte could stably express and deliver RNAi signals against expression of GFP and corn TB1 genes while living inside a growing corn plant"
+},
+{
+"Team":"Harvard",
+"Link":"http://2008.igem.org/Team:Harvard",
+"Description":"BACTRICITY*: Bacterial Biosensors with Electrical Output",
+"Abstract":"The metabolically versatile bacterium Shewanella oneidensis adapts to anaerobic environments by transporting electrons to its exterior, reducing a variety of environmental substrates. When grown anaerobically and provided with lactate as a carbon source, S. oneidensis transfers electrons to an electrode of a microbial fuel cell. We sought to engineer S. oneidensis to report variations in environmental conditions through changes in current production. A previous study has shown that S. oneidensis mutants deficient in the mtrB gene produce less current than the wildtype strain, and that current production in these mutants can be restored by the addition of exogenous mtrB. We attempted to control current production in mtrB knockouts by introducing mtrB on lactose, tetracycline, and heat inducible systems. These novel biosensors integrate directly with electrical circuits, paving the way for the development of automated, biological measurement and reporter systems.  *Bacteria As Current Transmitters Report Induced Changes Important To Yo"
+},
+{
+"Team":"Hawaii",
+"Link":"http://2008.igem.org/Team:Hawaii",
+"Description":"A BioBrick toolkit for cyanobacteria",
+"Abstract":"We aim to extend the current BioBrick registry to a greater range of organisms, including cyanobacteria. Cyanobacteria are studied for their ability to produce useful compounds, including biofuels and biopolymers. These \"little green factories\" require only salts, light, water, and carbon dioxide for photoautotrophic growth. A cyanobacterial \"toolkit\" would enhance our ability to utilize this system. We designed: 1) mobilizable broad-host range BioBrick vectors derived from RSF1010, 2) a cassette for protein secretion from Synechocystis sp. PCC 6803, and 3) a nitrate-inducible cyanobacterial promoter BioBrick. Our toolkit was designed for conjugative gene transfer from Escherichia coli to Synechocystis to achieve the controlled production and recovery or bioproducts, demonstrable by induced secretion of green fluorescent protein. Though our parts were targeted for work in cyanobacteria, they may be compatible with other Gram-negative systems including Agrobacterium, which is capable of plant transformation"
+},
+{
+"Team":"Heidelberg",
+"Link":"http://2008.igem.org/Team:Heidelberg",
+"Description":"Ecolicence to kill: Engineering E.coli for targeting pathogenic microorganisms",
+"Abstract":"Microbial communities known as biofilms are particularly resistant to conventional therapies. Biofilm formation depends on signalling molecules called autoinducers. Our aim is to exploit this communication mechanism by engineering synthetic bacteria that are able to target harmful autoinducer-secreting species and to kill them. We engineered “killer” E. coli cells with two complementary modules. The “sensing module” comprises the modification of E. coli’s chemotaxis system to make killer cells move towards a prey-secreted autoinducer stimulus. The “killing module” ensures that once in the vicinity of the prey, at high levels of the stimulus, a bacteriocidal mechanism is activated. In our model system, autoinducer-secreting “prey” cells are represented by a second E. coli strain. We further developed computer models that show the dynamics of both modules and probe the efficiency of the system in defined spatial environments. Future directions include adjusting the system to target real pathogens or even cancer cells"
+},
+{
+"Team":"HKUSTers",
+"Link":"http://2008.igem.org/Team:HKUSTers",
+"Description":"Does God play dice with the cell?",
+"Abstract":"Stochastic fluctuation in a cellular context and the lambda-phage bifurcation have been extensively studied. However, from a bottom-up synthetic aspect, we aim to exploit the cellular \"noise\" to build an E. coli version of a computational device, the \"Random Number Generator\". One random binary digit can be generated by capturing an initial Polymerase binding event with a pair of mutually exclusive promoters. Reciprocal inhibition using two repressors shall achieve unilateral expression of the \"switch\", with fluorescence reporters indicating the probability of each alternative occurrence. Balancing the two sets of affinity and kinetic parameters and maintaining a single copy of this synthetic device integrated into the bacterial chromosome shall improve performance. If successful, coupled with other reporters we envision multiple extensions of this \"Randomizer\", including a Memorizer that utilizes a hierarchy of XOR-calculations to \"store\" a multi-digit random number, and intriguing pattern generation involving chemical gradients and random \"population behavior\""
+},
+{
+"Team":"iHKU",
+"Link":"http://2008.igem.org/Team:iHKU",
+"Description":"Formation of new patterns by programming cell motility",
+"Abstract":"The ability of living organisms to form patterns is an untapped resource for synthetic biology.  The HKU iGEM2008 team aims to generate unique patterns by rewiring the genetic circuitry controlling cell motility.  Specifically, E. coli cells are programmed to autonomously regulate their movement by sensing local cell density.  Interesting patterns are formed by two types of newly engineered cells.  The high cell-density motility-off cells spread outwards and spontaneously form a distinctive ring of low cell density surrounded by rings of high cell density whilst the high cell-density motility-on cells form a Fuji-mountain-like structure.  Moreover, we build a theoretical model that satisfactorily fits our current experimental data, and also predicts some parameters which may significantly affect the ring formation.  The study of this self-organized spatial distribution of cells helps us to understand principles underlying the formation of natural biological patterns, and synthetic non-natural patterns have various potential applied uses"
+},
+{
+"Team":"IIT_Madras",
+"Link":"http://2008.igem.org/Team:IIT_Madras",
+"Description":"StressKit: A BioBrick library of Lac-repressed σ24, σ28, σ32 and σ38 promoters for Escherichia coli",
+"Abstract":"Regulated gene expression is an essential part of the synthetic biologist's toolkit. Bacteria have evolved 'generalized stress responses' which generate genome-wide changes as responses to globally-integrated information. Specific types of stress upregulate specific 'alternative σ factors', which activate transcription by binding to nucleotide signatures at the -10 and -35 boxes of their cognate promoters. We set out to design, construct, and validate a library of σ dependent promoters for E.coli, with the following specifications: the promoters must conform to the BioBrick standard; they must be modular so they can be used multiply in devices; and they must be LacI repressed but σ dependent, off by default but behaving like native σ dependent promoters in the presence of IPTG. We're currently characterizing the library of promoters (σ24, σ28, σ32 and σ38) against the unmodified Lutz-Bujard promoter, using spectrophotometry and fluorescence microscopy"
+},
+{
+"Team":"Illinois",
+"Link":"http://2008.igem.org/Team:Illinois",
+"Description":"Cell-based and in vitro antigenic sensors for medical diagnostics",
+"Abstract":"The unifying motivation behind our research this year is the creation of novel diagnostic tools for medicine: we are conducting three parallel research projects to create cell-based and in vitro biosensors. We are engineering a bimolecular fluorescence system in which two halves of a fluorescent protein, each fused to an antigenic epitope, will bind to the two sites on an antibody in human serum to cause a detectable fluorescent signal when antibodies against this specific antigen are present. These proteins can be produced in bulk through a bacterial expression system. We are also pursuing similar diagnostic objectives using a eukaryotic system; we are designing strains of yeast able to respond specifically to immunogenic epitopes or antibodies, and activate a fluorometric or enzymatic response accordingly. We are fusing antibodies against immunological targets to cell surface receptors of transcriptional signaling pathways, which would become activated only in the presence of these pathogens"
+},
+{
+"Team":"Imperial_College",
+"Link":"http://2008.igem.org/Team:Imperial_College",
+"Description":"Designer Genes – Biofabricator subtilis",
+"Abstract":"The Imperial College iGEM Team has constructed a genetically engineered Biofabricator, using the Gram-positive bacterium Bacillus subtilis, with application from BioCouture to tissue engineering. Our Biofabricator subtilis is designed to produce self-assembling biomaterials using light as a trigger, and it achieves this in three stages: (i) based on the principles of holography and an endogenous light-sensing mechanism, our engineered bacteria is captured at desired locations; (ii) next, bacterial locomotion is suspended by using a recently-discovered clutch mechanism that disengages the flagellum from the motor protein; (iii) finally, once bacteria are stationary, biomaterial production is triggered leading to self-assembly and the formation of bio-scaffolds at specific locations"
+},
+{
+"Team":"Johns_Hopkins",
+"Link":"http://2008.igem.org/Team:Johns_Hopkins",
+"Description":"The Yeast Sex Detector: Visual Mating Type Determination System for S. cerevisiae",
+"Abstract":"A haploid S. cerevisiae yeast cell is either mating type ‘a’ (MATa) or mating type ‘α’ (MATα). In the elucidation of biochemical and genetic processes in yeast, it is often necessary to initiate sporulation of diploid yeast cells. The meiotic products of sporulation are four haploid cells; two MATa and two MAT α. To continue analysis, differentiating between the haploid cells is often crucial, and the necessary assay can take 2 to 3 days. Our detector, consisting of fluorescent proteins that are preferentially expressed depending on the mating type, will cut this time to seconds. Simply shining a UV lamp over the cells will reveal the mating type, allowing for the cells to be easily separated. This device could assist most yeast geneticists on a daily basis, as well as aid in the study of HO strains of yeast that switch mating-type at every mitotic division"
+},
+{
+"Team":"KULeuven",
+"Link":"http://2008.igem.org/Team:KULeuven",
+"Description":"Dr. Coli, the bacterial drug delivery system",
+"Abstract":"Imagine a bacterium that produces a drug when and where it is needed in the human body. It would have several advantages over classical drugs and could have many medical applications. In this framework we proudly present our team's project: Dr. Coli, the bacterial drug delivery system. Dr. Coli senses the disease signal and produces the appropriate amount of drugs to meet the individual patient's needs. And when the patient is cured, Dr. Coli self-destructs. To do this, a molecular timer registers the time since the last disease signal sensed. But when the disease flares up again, this timer is reset and drug production is resumed. Within the time frame of the iGEM competition, we developed a proof of concept of Dr. Coli. The most important assets are massive reuse of standard biobricks, different control mechanisms and extensive modeling"
+},
+{
+"Team":"Kyoto",
+"Link":"http://2008.igem.org/Team:Kyoto",
+"Description":"Cells as physical power suppliers: Raise the Titanic!",
+"Abstract":"In many biotechnological contexts, bacterial cells are considered as \"chemical facilities.\" A number of studies have genetically engineered cells to produce various desired compounds. They further aim at accurate and precise regulation of material production. Cells are also power suppliers in terms of their motility. This aspect, however, has been much less featured. Our project started with the gigantic goals of lifting up the Titanic from the deep-sea with bacterial power. We worked towards engineering cells to carry larger objects and have been designing and constructing cells so that these micro-order entities can move a centimeter or larger objects. We have equipped E. coli with the ability to attach to an object surface, cell density dependent buoyancy production and regulated flagella, and examined by quantitating the parameters to what extent our goal is achieved. Our study presents the possibility of bacterial physical power"
+},
+{
+"Team":"LCG-UNAM-Mexico",
+"Link":"http://2008.igem.org/Team:LCG-UNAM-Mexico",
+"Description":"Singing bacteria: Controlling Escherichia coli's nickel efflux pump",
+"Abstract":"Our project is to make bacteria sing. This will be achieved through the control of E. coli's nickel efflux pump, RcnA. The main idea is that a change in the concentration of extracellular nickel will translate into a change in the medium's conductivity, which we will measure. This will be read by a computer and, depending on the value, emit a sound. This way, bacteria are \"singing\"! The RcnA gene is placed under the control of phage lambda's CI repressor, which is itself produced in the presence of AHL and LuxR. LuxR is produced constitutively in the cell, so the addition of AHL will be the input signal and limiting step. The final objective is to express the extent of RcnA's repression (and so the extracellular nickel concentration) as a function of AHL present in the cell"
+},
+{
+"Team":"Lethbridge_CCS",
+"Link":"http://2008.igem.org/Team:Lethbridge_CCS",
+"Description":"Ligase-Independent Cloning as a Standard for BioBrick Preparation",
+"Abstract":"While there is an established BioBrick format, there is not yet a standard method for turning a gene of interest into a BioBrick.  Ideally, such a standard method would be easily adopted, even by amateurs, and would lend itself to automation.  A significant drawback of several existing techniques is their dependence on ligase treatment, which is often problematic.  We propose a ligase-independent cloning (LIC) method, based on the technique of Aslanidis &amp; de Jong (1990), as a possible standard for novel BioBrick preparation.  Instead of short overhangs and ligase treatment, LIC uses long overhangs to circularize plasmid vectors for transformation without the use of ligase.  The LIC method reduces the number of enzyme steps required for cloning, thus lending itself to easy adoption, automation, and real biological 'engineering."
+},
+{
+"Team":"Melbourne",
+"Link":"http://2008.igem.org/Team:Melbourne",
+"Description":"Building a temporal controller in E. coli using red-light sensor and riboswitches",
+"Abstract":"This year Melbourne iGEM competition team seeks to build a temporal controller in E. coli. The idea is to build a system, which is modular, has all components in the form of biobricks, and expresses gene(s) at a specific time in a sequential manner. In this study, we show the design, modeling and some experimental results towards a proof of principle of the system. The design uses the leverage of existing biobricks of red light bacterial photography system, positive feedback loops and riboswitches. We propose that the architecture presented should scale well with increasing number of genes to be temporally regulated. It is anticipated that such system will be useful in metabolic engineering because enzymes can be turn on and off in a sequential manner"
+},
+{
+"Team":"METU_Turkey",
+"Link":"http://2008.igem.org/Team:METU_Turkey",
+"Description":"Light Controlled Metal Carrying E. coli",
+"Abstract":"Heavy metal contamination of drinking water is a major problem in many developing countries. It requires expensive techniques to get rid of these contaminants. In this project we aimed to develop metal cleaning techniques which (1) should be cost effective (2) and should not let further contamination in the course of cleaning. By using available systems from the nature we tried to develop a bacterial machine which can bind/release heavy metals and whose movement can be controlled by providing specific light wavelengths. To accomplish our aims we introduced metal binding proteins and bacteriorhodopsin to control pH which are located on the extracellular surface of membrane and phototactic capability to control movement by light"
+},
+{
+"Team":"Mexico_UNAM-IPN",
+"Link":"http://2008.igem.org/Team:Mexico_UNAM-IPN",
+"Description":"Design of an experimental device to detect events of horizontal gene transfer in Escherichia coli",
+"Abstract":"Horizontal gene transfer is an evolutionary mechanism that contributes to the acquisition of new genetic material among organisms; as such it helps bacteria to acquire antibiotic resistance and other genetic devices. The main goal is to design a devise that would detect events of horizontal gene transfer among bacteria. Genetically modified E. coli were monitored until a detectable sign appears in the media, indicating an event of horizontal transfer. In order to detect such events, we will use plasmids as the genetic material that could be transferred in a bacterial culture"
+},
+{
+"Team":"Michigan",
+"Link":"http://2008.igem.org/Team:Michigan",
+"Description":"Circadian Clocking... in E. Coli",
+"Abstract":"The human body's \"clock\" regulates the daily cycles of many physiological and metabolic processes, such as the sleep-wake cycle and feeding rhythms. It is controlled by the interplay of numerous molecular factors that orchestrate complex feedback loops and processes that are fundamentally mediated by gene expression and the events that follow it. We are working on constructing a synthetic clock, affectionately deemed \"The Sequestilator,\" that is analogous to the mammalian clock.  Our clock consists of two parts: an activator with constitutive expression and a promoter that drives the production of a repressor that binds and \"sequesters\" the activator away from the promoter. While intuitively it seems that this system may reach a steady state rather than oscillate, simulations have shown that under certain rapid equilibrium and tight binding conditions, this circuit does exhibit oscillations.  We are currently involved the in building and testing of this device"
+},
+{
+"Team":"Minnesota",
+"Link":"http://2008.igem.org/Team:Minnesota",
+"Description":"Minnesota, Hats Off To Thee: Bacterial suicide, comparator and computer-aided synthetic biology",
+"Abstract":"The University of Minnesota is sending their first team to the iGEM competition this year. Our group is composed of two subgroups: Team Comparator and Team Timebomb, each of which is working on an individual project. Team Timebomb is working to engineer a bacterial clock, based on which bacterial cells will 'commit suicide' after a predetermined number of divisions has been reached. Team Comparator is engineering a bacterial comparator, which is one element of a feedback controller. Team Comparator is also developing two computational tools: the SynBioSS Designer and the SynBioSS Wiki. SynBioSS stands for the Synthetic Biology Suite, which is freely available at synbioss.sourceforge.net . It is a suite of algorithms for automatically generating, storing and retrieving networks of reactions, which can model and simulate BioBricks gene networks. Computer-aided synthetic biology at its best"
+},
+{
+"Team":"Mississippi_State",
+"Link":"http://2008.igem.org/Team:Mississippi_State",
+"Description":"Genetically Engineered System for Lignin Biodegradation using Lignin Peroxidase A",
+"Abstract":"Lignin is a ubiquitous, extremely complex biopolymer found in plant cells.  It is the most recalcitrant part of the cell wall, and only a few organisms can degrade it.  As a result, a huge proportion of the earth's biomass resources are trapped in a highly degradation resistant lignin matrix.  To make these resources viable for energy and chemical needs, lignin must be broken down to separate the chemical components of biomass. We have isolated a single gene from the Lignin Peroxidase gene family.  It produces the enzyme responsible for initiating the breakdown of lignin.  Upon this fundamental research can be built a characterized and controllable system for the breakdown of biomass.  Our project is vital to developing a biological process for degrading biomass.  We want to make our resources a reality, and this project is the first step"
+},
+{
+"Team":"Missouri_Miners",
+"Link":"http://2008.igem.org/Team:Missouri_Miners",
+"Description":"Constructing an Ethanol Sensor",
+"Abstract":"In Pichia pastoris, alcohol oxidase (AOX) is the first enzyme in the methanol utilization pathway.  This enzyme is encoded by the AOXI gene. If exposed to an environment containing both methanol and ethanol, P. pastoris preferentially metabolizes ethanol.  The production of the AOX enzyme is subject to the concentration of ethanol. This diauxic metabolism may be utilized as an ethanol sensor.  When the AOXI promoter is fused with a gene encoding a fluorescent protein, the activation of the AOXI promoter may be detected by direct observation of fluorescence. Our project is the development of a device containing the AOXI promoter fused with a fluorescent protein gene to create an inexpensive ethanol sensor for a variety of applications. The concentration of ethanol in the environment may be deduced from the time period between exposure of bacteria carrying the device to ethanol and methanol, until the detection of fluorescence"
+},
+{
+"Team":"MIT",
+"Link":"http://2008.igem.org/Team:MIT",
+"Description":"Streptococcus mutans is the main cause of dental caries. A clinical study (Kelly CG et al.; Nature Biotechnol. 1999) isolated the 20aa functional segment (p1025) that S.mutans uses to attach to teeth. p1025 competitively inhibits binding of S.mutans, preventing the recolonization of S.mutans for 90 days",
+"Abstract":"We are engineering Lactobacillus bulgaricus, a bacteria common in yogurt, to produce and secrete p1025. Since a new batch of yogurt is made using some of an old batch, a continuous supply of teeth- cleaning yogurt will be available since all descendants of the original bacteria will also express p1025. This expression system can be used to produce other peptides by replacing the p1025 gene with another. Yogurt with modified bacteria is a cheap and efficient "
+},
+{
+"Team":"Newcastle_University",
+"Link":"http://2008.igem.org/Team:Newcastle_University",
+"Description":"A Computational Intelligence Approach to Developing a Diagnostic Biosensor: The Newcastle BugBusters Project",
+"Abstract":"Computational tools for the design and simulation of circuits are widely used within the engineering community, but have been under-utilized in synthetic biology. Of particular promise is a computational intelligence focus, using algorithms such as artificial neural networks (ANNs) and evolutionary computation, which are designed specifically for the generation of \"good-enough\" solutions to problems in complex, poorly understood systems. We use an Evolutionary Algorithm to computationally design a genetic regulatory circuit that behaves like an ANN.  The circuits are composed bottom-up from modular parts and are modelled in CellML. The aim of the project is to engineer an extensible signalling network to allow Bacillus subtilis 168 to detect, classify and indicate the presence of selected pathogens in its environment. We use bacterial two-component systems as the input layer of the in vivo ANN that responds to specific profiles of quorum sensing signalling peptides by expressing genes for selected fluorescent proteins."
+},
+{
+"Team":"NTU-Singapore",
+"Link":"http://2008.igem.org/Team:NTU-Singapore",
+"Description":"Engineering Colicin E7 production system to inhibit Enterohemorrhagic Escherichia Coli O157:H7",
+"Abstract":"The focus of the NTU Team's iGEM 2008 project is the use of bacteriocins (i.e. colicin E7) for the inhibition of the Escherichia Coli O157:H7 enterohemorrhagic strain (EHEC), which causes colitis and bloody diarrhea by producing a toxin (i.e. Shiga toxin) that damages the intestines. This is a prevalent medical problem that has effected "
+},
+{
+"Team":"Paris",
+"Link":"http://2008.igem.org/Team:Paris",
+"Description":"Bacterio'clock&nbsp;: First-In-First-Out temporal gene expression control",
+"Abstract":"Modulating the temporal expression of genes is at the heart of many biological processes. The aim of our project is to introduce a logical order of expression of genes within the context of an oscillating system. In our system the period of oscillation would allow the sequential switching of three genes in a \"FIFO&nbsp;: First In, First Out\" manner. This FIFO behavior is implemented as a network of Feed-Forward Loop motives. For this purpose we chose to base our synthetic FIFO system on the naturally existing E. coli flagella system where FIFO of the flagellar machinery genes expression was demonstrated. The FIFO system is then coupled at the population level to an oscillator based on the las quorum sensing system. In parallel we established quantitative computational models with experimentally measured parameters to explore the dynamics of this system"
+},
+{
+"Team":"Peking_University",
+"Link":"http://2008.igem.org/Team:Peking_University",
+"Description":"A genetic circuit to direct evolution of proteins in vivo",
+"Abstract":"Directed evolution method could be a powerful tool for answering scientific questions or for constructing novel biological systems. Here we present a simple genetic circuit for in vivo evolution, which is comprised of functional elements for random mutation and artificial selection. We engineered yeast to generate the mutator AID, an essential protein in adaptive immunity, and target it specifically to a gene of interest. The target gene will be mutated at a high rate and consequently evolves at rapid pace. The mutation rate inversely correlates with the functionality of the desired gene by self-regulated expression of AID.  This circuit may be adopted for in vivo evolution in eukaryotic system on virtually any genetically encoded target. It has a variety of potential applications in academic and industrial contexts, including almost any inter-molecular interaction that involves proteins and RNAs"
+},
+{
+"Team":"PennState",
+"Link":"http://2008.igem.org/Team:PennState",
+"Description":"Diauxie Elimination by Xylose Inducible Promoters",
+"Abstract":"Microorganisms typically preferentially utilize glucose over other sugar carbon sources such as xylose. This is largely regulated through control of gene expression based on the response of regulatory elements to sugars available to the cell. In E. coli, the xylose metabolism operon is controlled by both the xylose-inducible XylR activator protein and the cAMP receptor protein (CRP). In this project we attempt to eliminate glucose control over xylose-inducible gene expression in E. coli by altering the natural transcriptional control region of the xylose operon. Designs constructed and tested include scrambling the CRP binding site, increasing the strength of the xyl promoter, and over expressing XylR. Xylose-inducible gene expression that functions independently of glucose regulation provides a useful approach to improving microbial utilization of biomass feedstocks containing mixtures of glucose and xylose"
+},
+{
+"Team":"Prairie_View",
+"Link":"http://2008.igem.org/Team:Prairie_View",
+"Description":"Modeling Molecular Biosensor: Use of eNOSE and Neural Network System",
+"Abstract":"Biosensors are functional  molecules and/or cells including microbial cells that allow detection of the presence  of different molecules and/or metal ions such as iron , vanadium, nickel, and other elements, even at detection levels beyond limits of conventional methods. Therefore, the aim of the denoted project was to disign a divice for detection of different levels of Fe (II), Ni (II), and V (II). The response of the biosensor was measured by DNA and protein fluorescence, bacterial growth (CFU), and ATP production.  The device was tested at different concentrations of the metal ions.A computational modeling, neural network system coupled to an eNose system was developed to accurately assemble and predict the efficacy of the final biosensor device"
+},
+{
+"Team":"Princeton",
+"Link":"http://2008.igem.org/Team:Princeton",
+"Description":"Genetically engineered neuronal circuits: the fast and the furious",
+"Abstract":"The electrical and chemical excitability of biological neurons make them excellent components for synthetic biology systems. We designed and partially constructed genetic programs that drive the formation of several specific neuronal cell types from embryonic stem cells. A two-phase genetic program is used to first drive stem cell differentiation into neuronal precursors followed by differentiation into mature neurons that synthesize and respond to specific neurotransmitters.  We arrange populations of three types of genetically engineered neurons in a topology that implements a (very fast) bi-stable toggle switch.  Pacemaker cells serve as the ‘power source’ and constantly transmit excitatory dopamine-based action potentials to the other two cells types.  These two cell types cross-repress each other using inhibitory neurotransmitters (e.g. GABA and glycine) such that only of these cell types is active.  The system is switched between the two stable states through external induction with the inhibitory neurotransmitters"
+},
+{
+"Team":"Purdue",
+"Link":"http://2008.igem.org/Team:Purdue",
+"Description":"Engineering a Real-Time Living Biosensor: DNA Damage cause by Ultra-violet Irradiation",
+"Abstract":"Early detection of ultra-violet (UV) exposure is critical to minimizing the risk of developing skin cancer due to DNA damage. Chemically based sensors, such as UV sensitive beads that change color with progressive exposure to sunlight and color changing sunscreen, are both available on the market. These products allow the consumer to visibly check their level of UV protection and provide an early warning when the sunscreen becomes less effective. This project involves utilizing <i>Escherichia coli</i> and standard genetic manipulation to mimic these effects from a biological standpoint. Utilizing two pathways common to genetic engineers, SOS and β-gal blue/white markers; we strive to transform an <i>E. coli</i> that will visibly change color when exposed to a large amount of ultra-violet radiation. This construct allows us to measure direct DNA damage due to UV irradiation"
+},
+{
+"Team":"Rice_University",
+"Link":"http://2008.igem.org/Team:Rice_University",
+"Abstract":"Resveratrol, a phytochemical used for defense in plants, has been implicated as a natural product that increases life span and prevents cancer. Unfortunately, significant levels of resveratrol are present in only a small number of foods, such as red wine, peanuts, and blueberries. To create an alternative source for resveratrol consumption, we are introducing a biosynthetic pathway for this compound into a brewing strain of <i>Saccharomyces cerevisiae</i> and examining whether this strain can be engineered to produce resveratrol during beer fermentation. Given the high worldwide consumption of beer and the low cost of production, unfiltered beer brewed using our genetically modified <i>S. cerevisiae</i> should provide a cost-effective source of pharmacologically-active resveratrol"
+},
+{
+"Team":"Slovenia",
+"Link":"http://2008.igem.org/Team:Slovenia",
+"Description":"<b>Immunobricks</b>",
+"Abstract":"Almost half of the world population is infected with bacteria <i>Helicobacter pylori</i> which is also recognized as a type I carcinogen by WHO. Effective vaccine against <i>H. pylori</i> is not available, although it would be a durable solution, particularly in a formulation affordable to the third world population. <i>H. pylori</i> evades the immune surveillance by modifying several of its components to avoid detection by several Toll-like receptors. Recent discoveries demonstrate that synergy between innate and adaptive immune response is essential for an effective vaccine. We used principles of synthetic biology to assemble well defined synthetic vaccine, composed of the functional “immunobricks”, which combine the activation of innate immune receptors, appropriate cellular localization for processing of antigens and antigenic segments to stimulate formation of antibodies and cellular adaptive response. Our engineered vaccine was implemented in three different types of vaccines based on recombinant protein, engineered bacteria and DNA vaccine."
+},
+{
+"Team":"Tianjin",
+"Link":"http://2008.igem.org/Team:Tianjin",
+"Description":"A synthetic convertible ecosystem &amp; A foolproof genetic self-assembly system ",
+"Abstract":"Tianjin’s program is composed of two projects: in project #1 a Prisoner’s Dilemma will be imposed to two cocultured strains of E coli, while in project #2, an effort has been made to improve the methodology of gene cloning experiments. #1. A bistable ecosystem comprised of two strains that could switch between mutualism and competition has been built. The relationship between the two could be regulated by changing culture conditions. By doing this, we explored the possibilities of improving the coexistent ecosystems that function in industries. #2. A genetic self-assembly system was built to reduce the labor and cost involved in gene cloning experiments. Via the mechanism of site-specific recombination and incompatibility of plasmids, our device could make it possible that the recombination of the genes of interest as well as the dilution of the undesired recombinant genes will be automatically performed by the cells, upon introducing the foreign genes"
+},
+{
+"Team":"Tokyo_Tech",
+"Link":"http://2008.igem.org/Team:Tokyo_Tech",
+"Description":"Coli.Touch  – implementation of a pressure-responsive genetic circuit in E. Coli",
+"Abstract":"Our project is to construct a bacterial `touch panel’ which is colored by the pressure. We name it E. coli touch or Coli. touch. In iGEM, genetic circuits that respond to various inputs -- heat, small molecule, and light -- have been constructed. However, a pressure-responsive genetic circuit has not been constructed yet. Therefore, we constructed a pressure responsive circuit using a pressure-inducible promoter.  Under high pressure, the affinity of LacI for the lac operator in lac promoter is known to decrease due to a tetramer to dimer transition of LacI. However, we need 30 MPa pressure for induction of the lac promoter. Therefore, we created a withstand high-pressure display, and we tried to create a promoter induced by the lower pressure. In order to implement rewritable function in Coli. touch, we are planning to construct a toggle switch circuit using the lac promoter"
+},
+{
+"Team":"Tsinghua",
+"Link":"http://2008.igem.org/Team:Tsinghua",
+"Description":"Modeling and reconstruction of the Escherichia coli chemotaxis system/Construction of a Polyhydroxyalkanoates(PHA) production induced-lysis cell",
+"Abstract":"1：Inspired by the chemotaxis system of bacteria, we isolated and reconstructed a set of genetic modules in order to reconstitute an independent and interchangeable chemotactic device used as pollutant detector. Novel cybernetics terms and methods are introduced, while in silico modeling together with related softwares are also established to simulate the effects.<br />"
+},
+{
+"Team":"TUDelft",
+"Link":"http://2008.igem.org/Team:TUDelft",
+"Description":"Engineering Bio-thermometers at Delft University of Technology",
+"Abstract":"The goal of our project is to construct temperature-sensing bacteria Escherichia coli  that changes color at different temperatures. Such a thermometer can be applied as a temperature reporter system in large-scale fermentations, or as a temperature-inducible protein production system. The functionality of this thermometer relies on the post-transcriptional regulation of a temperature-sensitive RNA structure. It opens and enables the ribosome to bind, only when the temperature exceeds a certain threshold. We designed new artificial temperature sensitive RNA sequences, and developed protocols, using luciferase as a reporter, to test their functionality. For the colour output, we built upon the existing carotene biosynthesis pathway and converted all new elements to the BioBrick standard. Furthermore, we developed mathematical models describing both the temperature sensitive parts and the colour mevalonate pathway, and estimated parameters using the experimental data. The ethical issues in design and possible implementation of a commercial product are also addressed"
+},
+{
+"Team":"UC_Berkeley",
+"Link":"http://2008.igem.org/Team:UC_Berkeley",
+"Abstract":"In an effort to optimize the manufacture of parts, we have designed Clonebots - a collection of devices and strains that aid in the synthesis and analysis of new parts. Our team has programmed Clonebots to perform processes critical for efficient manufacture of biological products. We created systems capable of in vivo genetic manipulations and constructed an inducible self-lysis device designed to reclaim a variety of products without the need for conventional methods of lysis. By replacing traditional mechanical operations with biologically encoded alternatives, Clonebots are capable of accomplishing many operations with a single automated liquid handling unit - a cost-effective, BioCAD-friendly approach to large-scale projects"
+},
+{
+"Team":"UC_Berkeley_Tools",
+"Link":"http://2008.igem.org/Team:UC_Berkeley_Tools",
+"Description":"Clotho: A Platform-Based Design Tool for the Development of Synthetic Biological Systems",
+"Abstract":"Clotho is an open source BioCAD software platform with a unified set of tools for the management (via flexible databases), development (via algorithms and analysis), and deployment (via part packaging standards) of biological parts and systems.  It follows the principle of Platform based design (PBD), a methodology that enforces a strict separation between what a system does and how it is implemented.  In this methodology, a platform should continually provide more accessible, variegated workspaces while widening its array of possible applications.  Clotho achieves this by providing a core data structure that connects to external databases as well as plugin tools, including tools for sequence editing and annotation, design tools for constructing BioBrick composite parts, and an algorithm development manager.  Data objects can be passed between design and analysis tools within Clotho and shared between users.  Additionally, we have developed the infrastructure for community developers to write custom plugins for Clotho"
+},
+{
+"Team":"UCSF",
+"Link":"http://2008.igem.org/Team:UCSF",
+"Description":"Chromatin Memories: A New Tool for Synthetic Biology",
+"Abstract":"The cells of higher eukaryotes utilize chromatin state to encode \"permanent\" epigenetic changes in gene expression.  For example, signals received by a cell during the course of development can induce the partitioning of the genome into accessible (euchromatin) and inaccessible (heterochromatin) regions that specify the fate of that cell.  This epigenetic profile, in which blocks of gene are \"silenced\" by heterochromatin, is stably maintained and inherited by daughter cells.  Thus, chromatin state provides a higher level of gene expression control that is regional (many genes at once), dominant over transcription factors, ultra-cooperative (all or none), and highly stable (memory).  We have constructed and characterized a synthetic silencing system in S. cerevisiae that inducibly silences specific loci in the genome. This foundational technology will facilitate the construction of complex genetic circuits with memory, and has potential application in the engineering of cell differentiation in higher eukaryotes"
+},
+{
+"Team":"UNIPV-Pavia",
+"Link":"http://2008.igem.org/Team:UNIPV-Pavia",
+"Description":"Engineering E. coli to multiplex and demultiplex signals",
+"Abstract":"The goal of this project is to provide multiplexing and demultiplexing capabilities in E. coli. Multiplexing is a process where one of multiple input signals is conveyed into a single output channel, whereas in demultiplexing a single input signal is conveyed into one of multiple output channels. The choice of input channel in multiplexing and output channel in demultiplexing is controlled by a selector. The devices implementing these functions are called Multiplexer (Mux) and Demultiplexer (Demux) respectively. In a digital framework, signals can only assume 0/1 values and then the two components can be represented as logic networks. To reach our goal, we chose a biological implementation for all the logic gates involved in the networks and we connected these biological gates to build up two genetic circuits that behave respectively as a 2:1 Mux and a 1:2 Demux, that can be used in several contexts"
+},
+{
+"Team":"University_of_Alberta",
+"Link":"http://2008.igem.org/Team:University_of_Alberta",
+"Description":"The Detection and Degradation of Bisphenol A in the Environment:  An Antidote For Poisonous Plastic. ",
+"Abstract":"Bisphenol A (BPA) is a chemical building block used to make polycarbonate plastic and epoxy resins, which are used throughout society.  It is also an endocrine disruptor that has been implicated in cancer, obesity and developmental problems.  These health dangers arise, in part, because BPA is an estrogen-like compound capable of activating the human estrogen receptor, and thereby, affecting gene expression.  Using our novel NOT-gate design, we have constructed a system that detects, and ultimately degrades BPA by utilizing BPA’s chemical similarities to estrogen.  This prototype system tests the validity of a novel ERα/TetR NOT-gate.  The effectiveness of BPA degradation via gene products of the newly characterized BisdA and BisdB genes is also examined"
+},
+{
+"Team":"University_of_Chicago",
+"Link":"http://2008.igem.org/Team:University_of_Chicago",
+"Description":"Efficient production of mussel adhesive proteins in E. coli and Caulobacter crescentus",
+"Abstract":"Our research group is interested in engineering E. coli and caulobacter to express recombinant mefp-5, fp-151 and which are found naturally in mussels (Mytilus edulis and Mytilus galloprovincialis). These mussel foot proteins are strong bioadhesives and powerful anti-biofouling agents, with applications for biomaterials and biomedical research . We aim to produce results that will achieve the initial goals of genetic engineering, as well as further the conceptual goals of synthetic biology. The final goal of this research is to produce 5 biological Systems that meet the specifications of the Standard Registry of Biological Parts: 1) Expression of recombinant MAPs 2) secretion of MAPs 3) Surface display of MAPs 4) expression of tyrosinase and 5) concomitant production of tyrosinase with MAPs"
+},
+{
+"Team":"University_of_Lethbridge",
+"Link":"http://2008.igem.org/Team:University_of_Lethbridge",
+"Description":"The \"Bacuum\" Cleaner - an intelligent self-propelling keener cleaner",
+"Abstract":"Tailing ponds used to store discarded waste from oil refineries pose a major environmental dilemma. Our goal is to create modified E. coli capable of seeking out and degrading toxic aromatic pollutants created during the oil refinery and mining processes. Our \"Bacuum\" cleaner will respond to a destructive compound through interaction with a programmable riboswitch. The riboswitches will switch at varying concentrations of target ligand, thus altering the induced signal. At low concentrations, we intend to have our riboswitch express the motility protein cheZ in E. coli, directing the bacterium towards higher concentrations of our target molecule. Once it reaches a threshold concentration, a catabolic pathway capable of degrading our target pollutant will be activated. To create these riboswitches we plan to use SELEX to reprogram the theophylline riboswitch. We chose 2-chlorobenzoate, a compound related to polychlorinated biphenyls (PCBs), as our target molecule"
+},
+{
+"Team":"University_of_Ottawa",
+"Link":"http://2008.igem.org/Team:University_of_Ottawa",
+"Description":"A Pulse Generator in Yeast for Sustained Expression of Recombinant Proteins",
+"Abstract":"Large-scale production of recombinant proteins typically involves growing genetically modified microorganisms in bioreactors in which selective pressure tends to diminish culture productivity over time. To alleviate the detrimental effects of continual high-rate synthesis, we have designed a yeast strain capable of producing bursts of gene expression in a controlled and inducible manner. These \"pulses\" are generated by the action of an inducer molecule that triggers the synthesis of a protein of interest and simultaneously induces a repressor protein to terminate expression as well as an enzyme to degrade the inducer signal, thereby returning the system to its initial state. By co-culturing populations of inducer-synthesizing cells and pulse-generating receiver cells, we hope to achieve self-sustaining oscillatory gene expression dynamics that could render long term culture-based recombinant protein synthesis more sustainable. This would open the door for the production of considerably toxic proteins for numerous applications including anti-cancer therapeutics and antiseptics"
+},
+{
+"Team":"University_of_Sheffield",
+"Link":"http://2008.igem.org/Team:University_of_Sheffield",
+"Description":"Fusion receptors – an approach to confer new features on bacteria",
+"Abstract":"Expression of non-native receptor proteins in bacteria often involves extensive genetic modifications that can be difficult to execute. One way of addressing this problem is making a fusion receptor protein consisting of the sensing part derived from a foreign species, and a signal transmitting part that is native to the organism in which the receptor is to be expressed. The fusion receptor we have designed consists of Vibrio cholerae's sensing module fused to E.coli's signal conveyer. The receiver part of a receptor should bind to signaling molecules excreted by V.cholera and pass it downstream through signal transmitters to DNA. Expression of reporter molecules will indicate water contamination. As a result, the fusion receptor could be applied in real life as a basis for a cheap device sensing water contamination"
+},
+{
+"Team":"University_of_Washington",
+"Link":"http://2008.igem.org/Team:University_of_Washington",
+"Description":"The VectorJector: Engineering a Microbial Gene Delivery System",
+"Abstract":"Transferring novel abilities into eukaryotes has many potential applications.  Our project attempts to control transfer of genetic material across phylogenetic domains. We attempt to direct the prokaryote Escherichia coli (domain Bacteria) to transfer DNA encoding potentially useful traits from to the yeast Saccharomyces cervisiae (domain Fungi).  The design utilizes standard engineering and synthetic biology techniques to modularize this process, in order to enable usage across varying organisms and conditions. To achieve control over our system, bacteria transfer DNA via conjugation only if certain conditions are met. In our design, E. coli transfers the genes to metabolize lactose in S. cerevisiae, but only where lactose is prevalent, glucose is minimal, and yeast proximity is sensed via a yeast-produced signaling molecule. It therefore provides a means for conditional, not constitutive, gene transfer between diverse organisms.  Applications might include the production of transgenic plants and animals, clinical gene delivery, and interacting multiple-organism systems."
+},
+{
+"Team":"USTC",
+"Link":"http://2008.igem.org/Team:USTC",
+"Description":"Self-organized multiple-cell system",
+"Abstract":"It is an amazing process in nature that the evolution from Protozoa to Metazoa. Even in the development of each Metazoa, it is still unknown how the genome regulates the stem cells to develop into different kinds of cells, which can compose different organism, according to where they are in the body. There should be a self-organized procedure. Here we are trying to build a self-organized multiple-cell system based on the quorum sensing system to understand the mechanism of this process. We employed the small molecules in AHL family as the messenger to transmit the orders of differentiation and response and Cre recombinase as the executor of differentiation. Through an artificial designed network, we are trying to construct a new kind of cells, which a cycle composed by GFP will be seen on the plate if the colony is big enough"
+},
+{
+"Team":"Utah_State",
+"Link":"http://2008.igem.org/Team:Utah_State",
+"Description":"Efficient systems for monitoring polyhydroxyalkanoates production in microorganisms",
+"Abstract":"The increasing cost and negative environmental effect of fossil hydrocarbon-derived conventional plastics has escalated the need for economically realistic alternatives. Polyhydroxyalkanoates (PHAs)are a class of microbially synthesized, biodegradable thermoplastics that exhibit material properties comparable to those of conventional plastics. The Utah State University iGEM team project is focused on creating an efficient system for production and monitoring PHA production in microorganisms. One goal of our research is to develop and optimize a method, using fluorescent proteins, for the detection of maximum product yield of polyhydroxybuterate (PHB, a bioplastic) in recombinant E. coli and in Cupriavidus nectror. In order to develop an optimal PHB detection system, we focused on the identification of the most efficient reporter genes, and the best promoter sequences that would allow our reporter to indicate when PHB production was maximized"
+},
+{
+"Team":"Valencia",
+"Link":"http://2008.igem.org/Team:Valencia",
+"Description":"The Hot Yeast Project: Heat production in UCP-1-expressing yeasts",
+"Abstract":"The present project aims to demonstrate that the temperature of a microbial culture might be modulated through the expression of the mammalian uncoupling protein UCP-1. Saccharomyces cerevisiae strains genetically modified to express wild type UCP-1, mutant sequences with increased uncoupling activity, as well as a control strain were cultured in an Liquid Culture Calorimeter (LCC) we developed. The system consisted of a modified thermo flask with an inserted thermocouple allowing real-time accurate temperature measurements. Different conditions, such as initial densities, amounts of inductor, or shaking speeds were tested. We succeeded to obtain significant temperature increases in the mutant strains compared with the other strains.  We also developed an effective model of our system. Although the system is not always stable and might be sensitive to external perturbations, this is the first time a significant increase in temperature associated to UCP-1 expression in yeast is reported"
+},
+{
+"Team":"Virginia",
+"Link":"http://2008.igem.org/Team:Virginia",
+"Description":"Transcription attenuation for metabolic control by engineering intrinsic terminators",
+"Abstract":"A main challenge in constructing synthetic biological systems is the inability to precisely regulate gene expression using artificial means. Tightly-regulated control of any given set of related transcriptional, translational and posttranslational events will likely require a combination of powerful strategies. Therefore, the 2008 Virginia iGEM team is developing a library of transcriptional terminators intentionally redesigned to be functionally inefficient. Well-characterized, standardized terminators of various efficiencies should allow finely-tuned transcription attenuation and represents yet another step toward global biological control. This work complements other gene expression control methods that focus on initiation of transcription. The desired result is quantitative control of transcript levels, which is often necessary to balance flux through a synthetic metabolic pathway. To demonstrate its potential for real-world application, the team is planning to employ this approach to control the expression of a heterologous pathway in E. coli for the biosynthesis of polyhydroxybutyrate (PHB), a biodegradable polyester plastic"
+},
+{
+"Team":"Warsaw",
+"Link":"http://2008.igem.org/Team:Warsaw",
+"Description":"Bacterial device for creating and production of interactors for any given bait protein",
+"Abstract":"We have developed a system allowing to search for antibodies with new specificities or screen protein libraries in order to generate interactors for a given bait. Our system changes a protein sequence to maximize its interaction with a given partner. Proteins with modified sequences are then directed to the bacterial outer membrane, where the best interactors are selected. Protein presented on the cell surface is fused with part of β-lactamase protein, while its bait is fused with the complementing part of the enzyme and added to medium. The stronger the interaction between proteins of interest, the more efficient the binding of the two halves of  β-lactamase, leading to resistance to ampicillin and survival. Cells expressing less interacting variants die as they don't achieve sufficient complementation of the reporter enzyme. This allows us to select strains producing interactors for any given bait"
+},
+{
+"Team":"Waterloo",
+"Link":"http://2008.igem.org/Team:Waterloo",
+"Description":"A plasmid-safe, inducible genome-degradation strain for post-kill gene expression",
+"Abstract":"The aim of our project is to engineer a genome-free, cell-based expression system capable of producing a desired protein or activating a pathway in response to an environmental signal. Genome degradation is achieved using the combined activity of a restriction endonuclease to fragment the genome and an exonuclease to hasten degradation. The gene for the protein of interest will be located in a plasmid lacking recognition sites for the endonuclease, allowing it to remain intact after genome degradation. The plasmid genes will be expressed using the remaining cell resources until they expire. The primary application of this design would be an in situ compound production and delivery system for agricultural, industrial or therapeutic use"
+},
+{
+"Team":"Wisconsin",
+"Link":"http://2008.igem.org/Team:Wisconsin",
+"Description":"Examining Biofuel Precursors Via Increased Sorbitol Flux and Lignin Peroxidase Expression in Escherichia coli",
+"Abstract":"The global fuel crisis impacts our economy, national security, and environment. The need for alternative fuels is of utmost importance. Team Wisconsin used Escherichia coli to produce biofuel precursors in an effort to find these alternative fuel sources. One project focused on using E. coli to efficiently produce sorbitol, a biofuel precursor. Using computer modeling, we determined a way to funnel glycolysis’ intermediates towards the production of sorbitol via sorbitol-6-phosphate dehydrogenase. Wisconsin’s second aim was to isolate high-energy precursors from the plant cell wall through E. coli mediated breakdown of cell wall lignin. This was achieved by inserting the gene encoding lignin peroxidase , found in the white rot fungus Phanerochaete chrysosporium, into genetically modified E. coli, capable of producing and exporting the enzyme. Both projects improve current methods in the production of alternative fuels via two different, unique routes, and have the potential to move sustainable biofuel research forward"
+},
+]
