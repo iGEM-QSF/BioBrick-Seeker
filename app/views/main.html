@@ -34,7 +34,7 @@
   <input placeholder="Search by part names" class="form-control" ng-model="criteria.Part"></input>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
-      <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b>{{entry.Description}}</b>
+      <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b ng-bind-html="entry.Description | unsafe" ></b>
       <ul>
         <li>Location: (Plate {{entry.Plate - 3084}}) {{entry.Well}}</li>
         <li>Type: {{entry.Type}}</li>
