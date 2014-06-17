@@ -7,3 +7,9 @@ angular.module('iGemPlates2014App')
         $scope.entries = data;
     });
   });
+
+angular.module('iGemPlates2014App').filter('unsafe', function($sce) {
+    return function(val) {
+        return $sce.trustAsHtml(val);
+    };
+});
