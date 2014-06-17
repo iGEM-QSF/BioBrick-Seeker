@@ -12,7 +12,7 @@
   <input placeholder="Search teams" class="form-control" ng-model="criteria"></input>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
-      <b><a href="{{entry.Year}}" target="_blank">{{entry.Team}}</a></b> <b>{{entry.Description}}</b>
+      <b><a href="http://{{entry.Year}}.igem.org/Team:{{entry.Team}}" target="_blank">{{entry.Team}}: {{entry.Year}}</a></b> <b>{{entry.Description}}</b>
       <ul>
         <li>{{entry.Abstract}}</li>
       </ul>
