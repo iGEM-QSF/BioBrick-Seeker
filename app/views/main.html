@@ -14,7 +14,7 @@
 <div>
     <div class="dropdown-list">
     <br>
-      <b>Choose Type: </b>
+      <b>Choose Type: &nbsp;</b>
       <select ng-model="criteria.Type">
           <option value="">Any</option>
           <option ng-repeat="entry in entries | unique:'Type'" value={{entry.Type}}>
@@ -24,7 +24,7 @@
     <br>
   </div>
   <div class="dropdown-list">
-    <b>Choose Plasmid: </b>
+    <b>Choose Plasmid: &nbsp;</b>
       <select ng-model="criteria.Plasmid">
           <option value="">Any</option>
           <option ng-repeat="entry in entries | unique:'Plasmid'" value={{entry.Plasmid}}>
