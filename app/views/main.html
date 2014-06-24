@@ -2,7 +2,10 @@
   <div class="pull-right">
     <h4>by <a href="http://www.aaltohelsinki.com/index_en.html">Aalto-Helsinki</a></h4>
   </div>
-  <h3 class="text-muted">BioBrick Seeker</h3>
+    <div class ="tabs">
+      <a href="http://igem-qsf.github.io/BioBrick-Seeker/dist/" class="active">BioBrick Seeker</a>
+      <a href="http://igem-qsf.github.io/iGEM-Team-Seeker/dist/" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-arrow-right"></span> Search Teams</a>
+    </div>  
   <i>Search through the iGEM 2014 distribution.</i>
   <br>
   <p>If you use this tool in your iGEM project, please mention it in your wiki and let us know: <a href="https://twitter.com/AaltoHelsinki">@AaltoHelsinki</a> or team@aaltohelsinki.com.</p>
@@ -31,7 +34,7 @@
     <br>
   </div>
   <input placeholder="Search by entry descriptions" class="form-control" ng-model="criteria.Description"></input>
-  <input placeholder="Search by part names" class="form-control" ng-model="criteria.Part"></input>
+  <input placeholder="Search by part names eg. 'J04450'" class="form-control" ng-model="criteria.Part"></input>
   <ul>
     <li ng-repeat="entry in entries | filter:criteria">
       <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b ng-bind-html="entry.Description | unsafe" ></b>
