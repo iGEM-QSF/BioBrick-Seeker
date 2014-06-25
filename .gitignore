@@ -1,6 +1,5 @@
 node_modules
 *.swp
 .tmp
-/dist
 .sass-cache
 app/bower_components
