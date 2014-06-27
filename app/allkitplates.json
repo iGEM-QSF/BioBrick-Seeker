@@ -10631,7 +10631,8 @@
     "Plasmid":" pSB1C3", 
     "Type":" RBS",
     "Subparts": 1,  
-    "Description":"RBS.1 (strong) -- modified from R. Weiss" 
+    "Description":"RBS.1 (strong) -- modified from R. Weiss",
+    "Inconsistent":true
   },
   {
     "Plate":3087,
@@ -11166,7 +11167,8 @@
     "Comments":"�",
     "Type":" Reporter",
     "Subparts": 5,  
-    "Description":"RFP Coding Device" 
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
