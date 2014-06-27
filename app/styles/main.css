@@ -43,6 +43,10 @@ a.text-muted:hover{
   color:#999999
 }
 
+.warning{
+  color:#FF0000;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,

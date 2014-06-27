@@ -425,7 +425,8 @@
     "Type":" Coding",
     "Subparts": 1,
     "Source":" iGEM11_Amsterdam", 
-    "Description":"Cpn10 (O. antarctica)" 
+    "Description":"Cpn10 (O. antarctica)",
+    "Inconsistent":true
   },
   {
     "Plate":3085,
@@ -445,7 +446,8 @@
     "Type":" Regulatory",
     "Subparts": 1,
     "Source":" iGEM11_Bielefeld-Germany", 
-    "Description":"Promoter T7 and RBS" 
+    "Description":"Promoter T7 and RBS",
+    "Inconsistent":true
   },
   {
     "Plate":3085,
@@ -10631,7 +10633,8 @@
     "Plasmid":" pSB1C3", 
     "Type":" RBS",
     "Subparts": 1,  
-    "Description":"RBS.1 (strong) -- modified from R. Weiss" 
+    "Description":"RBS.1 (strong) -- modified from R. Weiss",
+    "Inconsistent":true
   },
   {
     "Plate":3087,
@@ -11166,7 +11169,8 @@
     "Comments":"�",
     "Type":" Reporter",
     "Subparts": 5,  
-    "Description":"RFP Coding Device" 
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
@@ -11352,7 +11356,8 @@
     "Type":" Reporter",
     "Subparts":" 5",
     "Source":" iGEM11_Bielefeld-Germany", 
-    "Description":"RFP Coding Device"
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
@@ -11373,7 +11378,8 @@
     "Type":" Reporter",
     "Subparts":" 5",
     "Source":" iGEM11_Bielefeld-Germany", 
-    "Description":"RFP Coding Device"
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
@@ -11415,7 +11421,8 @@
     "Type":" Reporter",
     "Subparts":" 5",
     "Source":" iGEM11_Uppsala-Sweden", 
-    "Description":"RFP Coding Device"
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
@@ -11436,7 +11443,8 @@
     "Type":" Reporter",
     "Subparts":" 5",
     "Source":" iGEM11_Uppsala-Sweden", 
-    "Description":"RFP Coding Device"
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
@@ -12881,7 +12889,8 @@
     "Comments":"�",
     "Type":" Reporter",
     "Subparts":" 5",  
-    "Description":"RFP Coding Device"
+    "Description":"RFP Coding Device",
+    "Inconsistent":true
   },
   {
     "Plate":3088,
