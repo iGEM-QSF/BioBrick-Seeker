@@ -39,6 +39,7 @@
     <li ng-repeat="entry in entries | filter:criteria">
       <b><a href="http://parts.igem.org/Part:{{entry.Part}}" target="_blank">{{entry.Part}}</a></b> <b ng-bind-html="entry.Description | unsafe" ></b> <b class="warning" ng-if="entry.Inconsistent">INCONSISTENT</b>
       <ul>
+        <li><a href="http://parts.igem.org/partsdb/get_part.cgi?part={{entry.Part}}" target="_blank">Check sequencing status</a></li>
         <li>Location: (Plate {{entry.Plate - 3084}}) {{entry.Well}}</li>
         <li>Type: {{entry.Type}}</li>
         <li>Plasmid: {{entry.Plasmid}}</li>
